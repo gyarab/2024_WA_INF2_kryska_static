@@ -1,1 +1,4 @@
-# 2024_WA_INF2_kryska_static
+TEST
+====
+
+**funguje to**
