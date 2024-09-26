@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(146, 189, 202);
+}
+div.text {
+    
+  }
+div.list{
+    font: italic small-caps bold 12px/30px Georgia, serif;
+}
+main div {
+    background-color: sandybrown;
+    color: #443322;
+    border: 2px solid orange;
+}
+div.text {
+    border: 3px solid violet;
+}
